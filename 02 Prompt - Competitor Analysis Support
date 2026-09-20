@@ -1,0 +1,27 @@
+Requirement - Complete competitor analysis for in market courses 
+Note - I used ChatGPT 5.6 Sol for this
+V1 Prompt: You are a product marketing manager, create a competitor analysis with the top 5 key online competitors in the market for the double degree - Bachelor of Computer Science + Master of Data Science. Include the university name, course name, price, entry requirements and a source link in a table format.
+====
+Response: 
+Yes. I’ve treated the market as Australian domestic online study and looked for courses competing for the same prospective student: someone wanting strong computer science foundations plus advanced data/AI capability.
+
+The main finding is useful from a product-marketing perspective: there are very few direct online equivalents offering both a bachelor and master qualification in four years. Most competitors offer either a four-year advanced/honours computer science degree with data science specialisation, or a bachelor followed by a separate online Master of Data Science.
+
+University	Course	Indicative price	Entry requirements	Source
+Griffith University	Bachelor of Advanced Computer Science (Honours) – Data Science major	$38,400 total indicative CSP; 4 years	ATAR/rank 80; Diploma also accepted as a VET pathway. English requirements apply.	Griffith / OUA course page
+Deakin University	Bachelor of Computer Science (Honours) – Data Science major	$8,920 p.a. CSP; approx. $35,680 over 4 years at current rates	Minimum unadjusted ATAR 50; VCE English 20 or EAL 25. Alternative higher education, VET and experience pathways available.	Deakin course page
+University of New England (UNE)	Bachelor of Computer Science + Master of Data Science – separate but fully online pathway	BCompSci $8,683 p.a. CSP + MDataSci $8,450 p.a. CSP. Approx. $38,700 at current rates if Master completed in 1.5 years	Bachelor: guaranteed ATAR 70 or higher education/VET/work pathways. Master: relevant bachelor including Computer Science qualifies and attracts advanced standing.	UNE Bachelor of Computer Science UNE Master of Data Science
+University of Southern Queensland (UniSQ)	Bachelor of Information Technology – Artificial Intelligence & Data Science + Master of Data Science	Both currently $9,536 p.a. CSP. Approx. $47,680 over 5 years at current rates	Bachelor: ATAR 58.90; English assumed; General Maths assumed for AI & Data Science major. Master: recognised 3-year bachelor in any area or 5 years' relevant professional experience.	UniSQ Bachelor of IT UniSQ Master of Data Science
+Flinders University	Bachelor of Information Technology – Online	$11,502 p.a. CSP; approx. $34,506 over 3 years at current rates	Guaranteed ATAR 65; STAT 150, GPA 4.0 or Certificate IV+ are alternative entry pathways. No prerequisites.	Flinders Online Bachelor of IT
+
+Approximate totals calculated from published annual CSP fees are for comparison only; universities review fees annually.
+
+What stands out competitively
+
+The strongest like-for-like online threats are probably Griffith and Deakin. Both offer four-year online programs covering computer science and advanced data science, so a prospective student could reasonably compare them with a four-year Bachelor of Computer Science/Master of Data Science even though they graduate with an honours degree rather than a master's. Griffith's program is especially close: four years, 32 subjects, 100% online, and a Data Science major.
+
+UNE is probably the strongest qualification-based substitute because students can complete both a Bachelor of Computer Science and a Master of Data Science online. A Computer Science bachelor is recognised as a relevant discipline for the master's and attracts 24 credit points of advanced standing, although the two courses aren't packaged as one integrated four-year double degree.
+
+UniSQ competes strongly on accessibility and pathway flexibility. Its online Bachelor of IT includes an Artificial Intelligence and Data Science major, has a relatively accessible ATAR of 58.90 and explicitly identifies the Master of Data Science as a further-study option.
+
+From a positioning perspective, the white space is therefore quite clear: “Two qualifications, Bachelor + Master, in four years, fully online” is substantially more differentiated than simply positioning around computer science, AI or data science content, because competitors can replicate the subject matter more easily than the qualification structure and time-to-completion.
