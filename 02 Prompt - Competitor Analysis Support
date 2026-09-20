@@ -25,3 +25,65 @@ UNE is probably the strongest qualification-based substitute because students ca
 UniSQ competes strongly on accessibility and pathway flexibility. Its online Bachelor of IT includes an Artificial Intelligence and Data Science major, has a relatively accessible ATAR of 58.90 and explicitly identifies the Master of Data Science as a further-study option.
 
 From a positioning perspective, the white space is therefore quite clear: “Two qualifications, Bachelor + Master, in four years, fully online” is substantially more differentiated than simply positioning around computer science, AI or data science content, because competitors can replicate the subject matter more easily than the qualification structure and time-to-completion.
+
+===
+V2 Prompt: You are a product marketing manager, create a competitor matrix with the top 5 key online competitors in the Australia for the double degree; Bachelor of Computer Science + Master of Data Science. Include the university name, course name, price, entry requirements, key unique selling point and a source link in a table format.
+===
+Response: 
+Here’s the competitor matrix. I’ve focused on the closest 100% online Australian alternatives a prospective student might realistically compare with a Bachelor of Computer Science + Master of Data Science, rather than pretending there are five exact double-degree equivalents.
+
+University	Course	Price	Entry requirements	Key unique selling point	Source
+Griffith University	Bachelor of Computer Science – Data Science & Artificial Intelligence major	$9,400 indicative first year; $28,200 indicative total (CSP, 2026)	ATAR/Rank 67; Certificate IV also provides a VET pathway. Assumed knowledge includes English and Mathematical Methods.	One of the closest substitutes because it combines a Computer Science degree with a dedicated Data Science & AI major. Includes work-integrated learning and is 100% online.	Course page
+Deakin University	Bachelor of Data Science	$8,161 estimated first-year student contribution (CSP)	Minimum unadjusted ATAR 50; VCE English 20 or EAL 25. Alternative higher education, VET and work/life pathways available.	Strong technical data-science curriculum covering programming, machine learning, AI, deep learning and NLP, with 120+ hours of industry placement and optional minors including cloud, cyber and full-stack development.	Course page
+QUT	Bachelor of Data Science – Artificial Intelligence and Machine Learning	$7,500 per year (CSP, 2026)	ATAR/Selection Rank 80; assumed knowledge in English and Mathematical Methods or Specialist Mathematics.	Combines data science with a strong AI and machine-learning specialisation, including Python, cloud/performance computing and an industry-partner capstone project. Available online.	Course page
+University of Southern Queensland (UniSQ)	Bachelor of Information Technology – Artificial Intelligence & Data Science major	$9,536 indicative annual fee (CSP, 2026)	Indicative ATAR 58.90. English and General Mathematics assumed for the AI & Data Science major; Mathematical Methods recommended.	Students can combine the AI & Data Science major with Software Application Development as a second major, creating a broad computing + data proposition within one online degree.	Course page
+Adelaide University	Bachelor of Data Analytics	$8,337 indicative first year; $24,412 indicative total (CSP, 2026)	Completion of Year 12/SACE equivalent; alternatively Certificate IV+, 6 months of higher education, STAT or approved work/life pathway.	100% online and co-developed with industry, with practical exposure to Python, R, Tableau, Snowflake, AWS, Azure and Google Cloud plus machine learning and an industry capstone.	Course page
+Key competitive takeaway
+
+The strongest point emerging from the comparison is that the integrated four-year structure itself is highly differentiated online. Most online competitors offer either Computer Science with a data/AI major or a standalone Data Science/Data Analytics bachelor. They generally do not provide both a Bachelor of Computer Science and a Master of Data Science within four years.
+
+There is one particularly important structural competitor outside the online market: The University of Queensland offers a Bachelor of Computer Science/Master of Data Science in four years, but the program is delivered at St Lucia rather than online. Its 2026 domestic entry threshold was ATAR 97, with Mathematical Methods required.
+
+So from a product-marketing perspective, the clearest whitespace is:
+
+“Two qualifications — Bachelor of Computer Science + Master of Data Science — in four years, delivered online.”
+
+That is much more distinctive than simply positioning around AI, data science or industry relevance, which nearly all five competitors already use.
+===
+V3 Prompt: You are a product marketing manager, create a competitor matrix with the top 5 key online competitors in the Australia for the double degree; Bachelor of Computer Science + Master of Data Science only. Include the university name, course name, price, entry requirements, key unique selling point and a source link in a table format. Please only include relevant courses for comparison.
+=== 
+Response 
+I could not verify five Australian universities offering a like-for-like, fully online Bachelor of Computer Science + Master of Data Science vertical double degree. Rather than include loosely related IT courses, the matrix below contains the five closest online competitors based on overlap across computer science, programming, data science, AI/ML and graduate outcomes.
+
+University	Course	Price	Entry requirements	Key unique selling point	Source
+Griffith University	Bachelor of Computer Science – Data Science and Artificial Intelligence major	$9,400 indicative first year / $28,200 total (2026 CSP)	ATAR/Rank 67. Certificate IV also accepted as a VET pathway.	Closest undergraduate content match. Combines a full Computer Science degree with a Data Science & AI major, including programming, intelligent systems, data mining and analytics. 100% online.	Course page
+University of Southern Queensland (UniSQ)	Bachelor of Information Technology – Artificial Intelligence and Data Science major	$9,536 indicative annual fee (2026 CSP)	ATAR 58.90. English and General Mathematics assumed for the AI & Data Science major; Mathematical Methods recommended.	Students can combine Artificial Intelligence & Data Science with Software Application Development as a second major, giving particularly strong coverage across software/computing and data science within one online degree.	Course page
+Federation University	Bachelor of Information Technology – AI and Data Science	$9,537 indicative annual fee (2026 CSP)	Guaranteed ATAR 50; completion of Australian Year 12 and study score of at least 20 in any English. Alternative HE/VET pathways also available.	Combines core IT/programming with AI, machine learning, data visualisation and analytics, plus 60 days of paid industry placement through Federation's Co-op model. Available online.	Course page
+QUT	Bachelor of Data Science – Artificial Intelligence and Machine Learning	$7,500 per year (2026 CSP)	ATAR/Selection Rank 80; Year 12 English assumed knowledge.	Strong specialist proposition across data science, AI, machine learning, Python and advanced computing, culminating in a capstone project with an industry partner. Available online.	Course page
+Deakin University	Bachelor of Data Science	$8,161 indicative annual fee (CSP)	Minimum unadjusted ATAR 50; study score of 25 in English EAL or 20 in another English subject.	Broad technical curriculum includes programming, computer systems, algorithms, machine learning, deep learning and NLP, plus 120+ hours of industry experience. Available online.	Course page
+What this says about the competitive position
+
+The important finding is that none of these five replicate the full proposition. They compete for the same prospective student, but all stop at an undergraduate qualification.
+
+There are much closer structural competitors in Australia — notably UQ's Bachelor of Computer Science/Master of Data Science and QUT's Bachelor of Information Technology/Master of Data Science — but their current course pages list campus delivery rather than a fully online option, so I have deliberately excluded them from the matrix.
+
+That gives the double degree a fairly clear competitive distinction: an online pathway that combines foundational computer science with master's-level data science and awards two qualifications, rather than requiring students to choose between Computer Science or Data Science at undergraduate level.
+===
+Prompt V3.1: Please only include courses that are a double bachelors and masters
+=== 
+Yes — then I’d narrow the matrix substantially. I would not include any standalone bachelor degree, bachelor/bachelor double degree, or separate bachelor-to-master pathway.
+
+Based on current university course information, I can verify only two genuinely relevant Australian competitor courses that award both a bachelor’s and a master’s qualification in an integrated program. Importantly, neither is currently offered online.
+
+University	Course	Delivery	Price	Entry requirements	Key unique selling point	Source
+The University of Queensland	Bachelor of Computer Science / Master of Data Science	St Lucia campus	~$7,365 p.a. indicative 2026 CSP student contribution	ATAR/Rank 97; Year 12 English and Mathematical Methods prerequisites	The closest direct competitor: exactly the same Bachelor of Computer Science + Master of Data Science combination, completed in 4 years rather than 5. CSP available throughout the program.	UQ course page
+Queensland University of Technology (QUT)	Bachelor of Information Technology / Master of Data Science	Gardens Point campus	$9,600 p.a. 2026 CSP	ATAR/Selection Rank 78; assumed knowledge in General Mathematics, Mathematical Methods or Specialist Mathematics	Complete both qualifications in 4 years. The IT bachelor includes major options such as Computer Science, AI, Software Development and Cyber Security, making it highly relevant to the same prospective-student market.	QUT course page
+The key finding for your competitor analysis
+
+If online delivery is a mandatory competitor criterion, I would actually record the result as:
+
+No directly comparable Australian online competitors identified.
+
+UQ's course is an exact structural match but is delivered at St Lucia. QUT's very similar Bachelor of IT/Master of Data Science is delivered at Gardens Point. QUT does offer its standalone Bachelor of IT online, but its current Bachelor of IT/Master of Data Science page specifies Gardens Point for the vertical double degree.
+
+That is actually a stronger and more useful competitive insight for your assignment than padding the matrix out to five: the online Bachelor + Master format appears to occupy a genuine gap in the Australian market.
