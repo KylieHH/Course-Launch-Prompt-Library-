@@ -1,0 +1,162 @@
+- Requirement: Identify gaps in course information 
+- Prompt V1: You are a product marketing manager, review the notes from the course discovery session with university X and identify the gaps in information based on what should make up a complete product brief
+====
+Response: 
+1. Program Details
+•	Missing specifics on course structure and content:
+•	Detailed course/module list with credit points or hours per subject.
+•	Breakdown of foundational vs. elective subjects.
+•	Delivery format specifics (online, face-to-face, hybrid).
+•	Duration and schedule details (semester/trimester system).
+•	Missing assessment methods:
+•	Types of assessments used (exams, projects, presentations, practicals).
+•	Weighting of assessments.
+2. Market Analysis
+•	Competitive landscape:
+•	Specific competitor programs for benchmarking.
+•	Unique selling points compared to competitors beyond general statements.
+•	Market demand and trends:
+•	Data or insights on demand for graduates in AI, data science, and emerging tech.
+•	Labor market needs analysis supporting program relevance.
+
+3. Target Audience
+•	More granular audience segmentation:
+•	Demographic and psychographic profiles.
+•	Geographic reach (local, national, international students).
+•	Specific needs or pain points of target groups.
+•	Marketing personas:
+•	Detailed personas for marketing communications and positioning.
+4. Admissions
+•	Entry requirements details:
+•	Specific academic prerequisites (e.g., minimum ATAR or equivalent).
+•	English language proficiency requirements.
+•	Any prerequisite subjects or experience.
+•	Application process and timelines.
+•	Scholarships, financial aid, and fees:
+•	Program costs, tuition fees, and additional expenses.
+•	Available scholarships or financial support options.
+5. Industry Partnerships
+•	Names and profiles of industry partners:
+•	Specific companies or organisations involved.
+•	Nature and extent of partnerships (internships, guest lectures, joint research).
+•	Certification details:
+•	Which certifications align with the course content.
+•	Whether certifications are included or optional.
+•	Process and support for students pursuing certification.
+
+6. Career Outcomes
+•	Graduate employment data:
+•	Placement rates, average salaries, and types of roles graduates secure.
+•	Alumni success stories or testimonials.
+•	Employability skills taught:
+•	Soft skills and professional development integrated into the curriculum.
+7. Teaching and Learning
+•	Faculty qualifications and expertise:
+•	Information about teaching staff and their industry/research backgrounds.
+•	Technology and resources:
+•	Specific learning technologies, labs, or tools available to students.
+•	Student workload and pacing:
+•	Expected weekly study hours.
+•	Flexibility for part-time or working students.
+8. Student Support
+•	Details on support services:
+•	Specific academic support (tutoring, mentoring).
+•	Wellbeing and mental health services.
+•	Career services and internship placement assistance.
+•	Support for international students.
+9. Program Differentiators
+•	Quantifiable evidence:
+•	Metrics or data supporting claims of uniqueness.
+•	Awards, accreditations, or recognitions received.
+10. Pricing and Commercial Information
+•	Pricing strategy and payment options:
+•	Full fee schedule.
+•	Installment plans or payment flexibility.
+•	Revenue targets or enrollment goals:
+•	Expected number of students per intake.
+11. Legal and Compliance
+•	Regulatory approvals or accreditations:
+•	National or international accreditation status.
+•	Compliance with education standards.
+Summary
+While the notes provide a strong conceptual overview and highlight program strengths, key practical and commercial details are missing for a full product brief. To complete the brief, the university will need to supply detailed curriculum information, market data, admissions criteria, pricing, faculty profiles, student support specifics, and more concrete evidence of program outcomes and competitive positioning.
+Let me know if you'd like me to help draft follow-up questions or a template to collect this missing information!
+====
+Prompt V2: You are a product marketing manager, review the course notes and identify the gaps in information based on what should make up a product brief. List the missing pieces of information in a document with dot points, into 2 sections, what the university needs to provide, and what you can pull together.
+====
+Response: 
+What the University Needs to Provide	What you can pull together
+•	Program Details
+•	Specific course structures, including detailed subject lists and credit points per subject.
+•	Clear differentiation between Bachelor-only and double degree course requirements.
+•	Duration and mode of delivery specifics (e.g., online, face-to-face, hybrid).
+•	Entry Requirements
+•	Exact academic prerequisites, including minimum ATAR or equivalent scores.
+•	Language proficiency requirements (if any) for international students.
+•	Any special admission pathways or recognition of prior learning.
+•	Industry Partnerships
+•	Names and profiles of key industry partners.
+•	Specific examples of how industry partners contribute (e.g., guest lectures, internships, project sponsorship).
+•	Details on any formal internship or placement programs.
+•	Certifications
+•	List of specific industry certifications students can pursue or earn alongside the degree.
+•	Details on how course content aligns with certification exam requirements.
+•	Career Outcomes
+•	Specific job titles or roles graduates are prepared for.
+•	Graduate employment statistics or success stories.
+•	Any employer testimonials or endorsements.
+•	Support Services
+•	Details on academic support programs (e.g., tutoring, mentoring).
+•	Information on career services and counselling specific to tech students.
+•	Accessibility services and accommodations for students with disabilities.
+•	Teaching and Learning
+•	Class sizes and student-to-teacher ratios.
+•	Assessment methods and grading criteria.
+•	Technology and resources available to students (labs, software, online platforms).
+•	Program Costs and Financial Aid
+•	Tuition fees and additional costs (e.g., materials, software licenses).
+•	Scholarship and financial aid options available to students.
+•	Research Involvement
+•	Specific research groups or faculty involved in curriculum development.
+•	Opportunities for student research or participation in projects.
+•	Program Accreditation
+•	Accreditation bodies and status of the program.
+•	Recognition by professional organizations.	•	Program Overview Summary
+•	Consolidate the program aims, focus areas, and unique selling points.
+•	Highlight the emphasis on responsible innovation and emerging technologies.
+•	Target Audience Description
+•	Summarize the key demographics, motivations, and flexibility offered for students.
+•	Emphasize accessibility features like no advanced math prerequisite.
+•	Program Differentiators
+•	Extract and present the unique elements such as integrated industry engagement, human-centred approach, and multidisciplinary collaboration.
+•	Teaching and Learning Approach
+•	Outline the active learning style, ethical integration, and support mechanisms.
+•	Industry Engagement and Career Relevance
+•	Summarize the role of industry in curriculum design and student exposure.
+•	Highlight career opportunities and skill development focus.
+•	Marketing Messaging Framework
+•	Develop key messages based on the program’s strengths and student benefits.
+•	Draft potential taglines or value propositions for promotional materials.
+====
+Prompt V3:  You are a product marketing manager, review the course notes and identify the gaps in information provided based on what should make up a product brief. Don’t ask them for things we can find on the website. List the missing information as questions to send to the university.
+==== 
+Response: 
+Based on the course notes provided and what should typically be included in a comprehensive product brief for a university program, here are the gaps in information framed as questions to send to the university:
+Program Details and Structure
+1.	What are the exact entry requirements (e.g., ATAR scores, prerequisite subjects, language proficiency)?
+2.	What is the detailed course structure and unit sequence for each year of the Bachelor of Computer Science and the double degree?
+3.	What are the credit points or workload expectations per semester/year?
+4.	Are there any major or specialization options within the Bachelor of Computer Science?
+5.	What is the mode of delivery for the courses (e.g., fully online, blended, on-campus)?
+6.	What are the tuition fees and associated costs for domestic and international students?
+Industry Partnerships and Certifications 7. Can you provide a list of specific industry partners and their roles in the program? 8. Which specific industry certifications does the program prepare students for, and are any certifications included as part of the course? 9. Are there guaranteed internship opportunities or work placements? If so, what is the duration and nature of these placements?
+Career Outcomes 10. What are the typical job titles or roles graduates secure after completing this program? 11. Are there any graduate employment statistics or success stories available? 12. Does the program offer career services such as job placement assistance, mentoring, or networking events?
+Curriculum and Teaching Approach 13. How many hours per week should students expect to dedicate to lectures, tutorials, labs, and independent study? 14. What specific technologies, programming languages, or tools are taught? 15. How is student progress assessed (e.g., exams, projects, continuous assessment)? 16. Are there any capstone projects, group work, or industry-based projects included?
+Student Support and Resources 17. What specific academic support services are available (e.g., tutoring, writing help, study groups)? 18. What mental health and wellbeing resources are accessible to students? 19. Are there any scholarships, bursaries, or financial aid options available for this program?
+Program Differentiators 20. How does this program compare in cost and duration to similar programs at other universities? 21. Are there any notable faculty members or researchers directly involved in teaching this program?
+Target Audience and Marketing 22. What marketing channels have been most effective in attracting students to this program? 23. Are there any partnerships with schools, community organisations, or employers to promote the program?
+These questions will help fill in critical details necessary to create a thorough and compelling product brief that supports marketing, recruitment, and student decision-making.
+Requirement 2: Complete competitor analysis for similar courses in market 
+
+
+
