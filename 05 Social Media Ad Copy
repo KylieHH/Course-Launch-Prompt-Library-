@@ -1,0 +1,68 @@
+Requirement: Draft social media ad copy based on the product brief 
+V1 Prompt: You are a copywriter, write 3 social media ads based on the messaging framework and unique selling points in the product brief
+===
+Response: 
+=== 
+**Why stop at one degree?**
+
+Build your future in technology with a Bachelor of Computer Science and Master of Data Science — completed in just four years.
+
+Explore emerging technologies beyond AI, develop advanced data skills and learn with input from leading technology organisations including AWS, Cisco, Microsoft and Palo Alto.
+
+With an ATAR of 75 and no advanced maths prerequisite, your pathway into tech could be closer than you think.
+
+**Study online. Graduate with two qualifications.**
+
+Learn more.
+===
+**Ready to build a career in tech without putting your life on hold?**
+
+Develop practical skills across computer science, data science and emerging technologies through a flexible online double degree designed to fit around work and other commitments.
+
+Graduate with both a Bachelor of Computer Science and Master of Data Science in four years, with industry-relevant learning built throughout the course.
+
+**Build the technical foundations to change direction — and the advanced skills to take your career further.**
+
+Explore the course.
+===
+**Ready to build a career in tech without putting your life on hold?**
+
+Develop practical skills across computer science, data science and emerging technologies through a flexible online double degree designed to fit around work and other commitments.
+
+Graduate with both a Bachelor of Computer Science and Master of Data Science in four years, with industry-relevant learning built throughout the course.
+
+**Build the technical foundations to change direction — and the advanced skills to take your career further.**
+
+Explore the course.
+====
+V2 Prompt: You are a copywriter, write 3 social media ads based on the messaging framework and unique selling points in the product brief. Please provide image overlay text, and main bosy copy, ensure it meets the current specifications for Meta ads
+===
+Response: 
+===
+I’ve kept the primary copy within 125 characters, which aligns with Meta’s recommended length for most Feed placements and reduces truncation. Meta’s current guidance varies by placement—Facebook Feed allows roughly 50–150 characters, while Reels recommends much shorter primary text—so these are best suited to Facebook/Instagram Feed and Advantage+ image placements.
+
+===
+Image overlay text
+Two degrees. Four years.
+
+Main body copy
+Earn a Bachelor of Computer Science + Master of Data Science online in four years. Two qualifications, one pathway.
+
+CTA: Learn More
+===
+Image overlay text
+Future tech. Real-world skills.
+
+Main body copy
+Learn AI, data science and emerging tech with AWS, Cisco, Microsoft and Palo Alto. Study online for what’s next.
+
+CTA: Learn More
+===
+Image overlay text
+Change careers without pressing pause.
+
+Main body copy
+Build practical computer science and data skills online, with a four-year pathway to both a bachelor’s and master’s degree.
+
+CTA: Learn More
+
