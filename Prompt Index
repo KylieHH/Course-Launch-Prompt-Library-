@@ -1,0 +1,138 @@
+Course Launch Prompt Library – Full Prompt Index
+
+01. Identify Gaps in Course Information
+Prompt V1
+You are a product marketing manager. Review the notes from the course discovery session with University X and identify the gaps in information based on what should make up a complete product brief.
+
+Prompt V2
+You are a product marketing manager. Review the course notes and identify the gaps in information based on what should make up a product brief.
+
+List the missing pieces of information in a document with dot points, divided into two sections:
+
+What the university needs to provide
+What you can pull together
+
+Prompt V3
+You are a product marketing manager. Review the course notes and identify the gaps in information provided based on what should make up a product brief.
+Don’t ask the university for information we can find on its website.
+List the missing information as questions to send to the university.
+
+===
+
+02. Competitor Analysis Support
+Prompt V1
+You are a product marketing manager. Create a competitor analysis with the top 5 key online competitors in the market for the double degree – Bachelor of Computer Science + Master of Data Science.
+
+Include the following in a table format:
+
+University name
+Course name
+Price
+Entry requirements
+Source link
+
+Prompt V2
+You are a product marketing manager. Create a competitor matrix with the top 5 key online competitors in Australia for the double degree – Bachelor of Computer Science + Master of Data Science.
+
+Include the following in a table format:
+
+University name
+Course name
+Price
+Entry requirements
+Key unique selling point
+Source link
+
+Prompt V3
+You are a product marketing manager. Create a competitor matrix with the top 5 key online competitors in Australia for the double degree – Bachelor of Computer Science + Master of Data Science only.
+
+Include the following in a table format:
+
+University name
+Course name
+Price
+Entry requirements
+Key unique selling point
+Source link
+
+Please only include relevant courses for comparison.
+
+Prompt V3.1
+Please only include courses that combine a bachelor’s and master’s degree.
+
+===
+
+03. Audience Personas
+Prompt V1
+You are a product marketing manager. Based on the competitor analysis, identify 2 key audience segments.
+
+Include:
+
+Basic demographic details
+What is important to them
+What motivates them
+
+Summarise each persona in 6 dot points.
+
+===
+
+04. Product Brief
+
+Prompt V1
+You are a product marketing manager. Based on the course information below, the audience personas you developed, and the competitor matrix you built for the Double Degree Bachelor of Computer Science / Master of Data Science, write a product brief bringing everything together into a 3-page Word document that can be presented to the university partner for feedback.
+
+Course information is included in the appendix.
+
+Prompt V2
+You are a product marketing manager. Based on the course information shared previously, the audience personas you developed, and the competitor matrix you built for the Double Degree Bachelor of Computer Science / Master of Data Science, write a product brief bringing everything together into a 3-page Word document that can be presented to the university partner for feedback.
+
+Please include:
+
+Details on the product
+The audience segments and what is important to each segment
+Unique selling propositions
+Competitor information
+A messaging framework with the 2 most important messages for each audience segment
+
+===
+
+05. Social Media Ad Copy
+Prompt V1
+You are a copywriter. Write 3 social media ads based on the messaging framework and unique selling points in the product brief.
+
+Prompt V2
+You are a copywriter. Write 3 social media ads based on the messaging framework and unique selling points in the product brief.
+
+Please provide:
+
+Image overlay text
+Main body copy
+
+Ensure the ads meet the current specifications for Meta ads.
+
+===
+
+06. Recruitment Training Guide
+
+Prompt V1
+You are a student recruitment team leader. Review the product brief for the new Double Degree – Bachelor of Computer Science + Master of Data Science and create a one-page guide with key information about the course.
+
+Prompt V2
+You are a student engagement team leader. Review the product brief and create a quick-reference training guide for the Student Engagement Advisors to use in their conversations with students.
+
+The guide should include:
+
+Essential course information, including qualification, duration, delivery mode, entry requirements and areas of study
+The five strongest course benefits, ranked in order of importance
+Suggested discovery questions advisors can ask
+Responses to potential FAQs – a maximum of 5 questions
+A short “Why choose this course?” summary
+A clearly labelled section showing information that is missing, unconfirmed or subject to university approval
+
+Do not invent course details, fees, career outcomes, accreditation, scholarships, internships or industry commitments.
+
+Do not make unsupported claims such as “unique”, “industry-leading” or “the only course of its kind”.
+
+Distinguish between confirmed course facts and recommended advisor talking points.
+
+Keep the final guide to approximately one printed page.
