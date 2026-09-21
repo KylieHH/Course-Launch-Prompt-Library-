@@ -1,1 +1,228 @@
+Requirment: Create a training guide for the team of Student Engagement Advisors to help them when they are on the phone to prospective students 
+===
+V1 Prompt: You are a student recruitment team leader, review the product brief for the new Double Degree - Bachelor of Computer Science + Master of Data Science and create a one page guide with key information about the course
+===
+Response: 
+Student Recruitment Quick Guide
 
+Bachelor of Computer Science + Master of Data Science
+
+Proposed four-year online double degree | Internal advisor guide
+
+30-second course pitch
+A flexible online pathway for students who want broad computer science capability and advanced data science skills. Students can graduate with two qualifications in four years, explore emerging technologies beyond AI and learn through industry-informed content—without needing to relocate or meet a high ATAR threshold.
+
+Course at a glance
+
+Course information
+
+Details
+
+Award
+
+Bachelor of Computer Science and Master of Data Science
+
+Duration
+
+Four years: three years focused on computer science and one year focused on data science
+
+Delivery
+
+Online, designed for students who cannot attend regular face-to-face classes
+
+Entry
+
+ATAR 75; no advanced mathematics prerequisite, with assumed knowledge only
+
+Study focus
+
+Computer science, artificial intelligence, data science, cybersecurity, digital trust, digital twins and quantum computing
+
+Related pathway
+
+A three-year standalone Bachelor of Computer Science is also proposed
+
+Best-fit students
+
+Recent Year 12 graduates or early-career students who want a future-facing technology degree.
+
+Students outside easy reach of a campus who still want a structured university pathway.
+
+Working adults seeking a career change or progression into higher-value technology roles.
+
+Learners attracted to both computing foundations and advanced data capability.
+
+Lead with these benefits
+
+Two recognised qualifications completed in four years.
+
+Online access and an ATAR 75 entry point broaden the pathway into technology.
+
+Emerging technology coverage extends beyond AI to digital twins, quantum computing and digital trust.
+
+Proposed curriculum input and learning content from AWS, Cisco, Microsoft and Palo Alto. Confirm exact commitments before advising.
+
+Questions to guide the conversation
+
+Interest: What interests you more: building technology, working with data, or combining both?
+
+Goal: Are you looking to enter technology, change careers or progress in your current field?
+
+Study fit: Would online study help you balance work, caring responsibilities or location?
+
+Confidence: How do you feel about mathematics and returning to structured study?
+
+Address common concerns
+
+Mathematics: No advanced mathematics prerequisite is proposed; explain that assumed knowledge still applies.
+
+Online support: Highlight webinars, one-to-one consultations and proposed AI-enabled support.
+
+Career value: Connect the combined qualification to broad foundational and advanced skills. Avoid promising a specific role or salary.
+
+Time: Talk through the four-year commitment and confirm the study load once approved.
+
+Confirm before advising
+
+The following details are still subject to university confirmation:
+
+Fees and CSP availability
+
+Intake dates
+
+Study load and final course map
+
+Alternative entry pathways and credit or recognition of prior learning
+
+Internships, scholarships and certifications
+
+Accreditation and approved career outcomes
+
+Exact industry partner commitments
+
+Important: Do not use the claim “only course of its kind in NSW” until it has been approved and substantiated.
+===
+V2 Prompt: You are a student engagement team leader, review the product brief and create a a quick reference training guide for the Student Engagement Advisors to use in their conversations with students. The guide should include: Essential course information, including qualification, duration, delivery mode, entry requirements and areas of study. The five strongest course benefits, ranked in order of importance. Suggested discovery questions advisors can ask. Responses to potential FAQs a maximum of 5 questions A short “Why choose this course?” summary. A clearly labelled section showing information that is missing, unconfirmed or subject to university approval. Do not invent course details, fees, career outcomes, accreditation, scholarships, internships or industry commitments. Do not make unsupported claims such as “unique,” “industry-leading” or “the only course of its kind.” Distinguish between confirmed course facts and recommended advisor talking points. Keep the final guide to approximately one printed page.
+===
+Response: 
+Student Engagement Advisor Training Guide
+
+Bachelor of Computer Science and Master of Data Science
+
+Use this guide to explain the proposed course consistently, identify whether it may suit the student and record questions that require follow-up.
+
+Important: All course details below come from the current product brief and remain subject to university approval.
+
+Essential course information
+
+Course fact
+
+Current product brief
+
+Qualification
+
+Bachelor of Computer Science and Master of Data Science
+
+Duration
+
+Four years, with three years focused on computer science and the fourth on data science
+
+Delivery
+
+Online study designed for students who cannot attend regular face-to-face classes
+
+Entry
+
+ATAR 75; no advanced mathematics prerequisite, with assumed knowledge only
+
+Areas of study
+
+Computer science fundamentals, artificial intelligence, data science, digital twins, quantum computing, cybersecurity and digital trust
+
+Recommended advisor talking points
+
+Use these benefits in this order and keep the wording conditional until the course is approved.
+
+Two qualifications in four years. Students can combine computer science foundations with advanced data science study in one pathway.
+
+Online access. The proposed delivery removes the need to attend regular face-to-face classes or relocate for study.
+
+Broad technology capability. The course brings computer science and data science together rather than requiring two separate study decisions.
+
+Emerging technology focus. The proposed curriculum extends beyond AI to digital twins, quantum computing, cybersecurity and digital trust.
+
+More accessible entry. The brief proposes an ATAR of 75 and no advanced mathematics prerequisite, while retaining assumed knowledge requirements.
+
+Suggested discovery questions
+
+What interests you most: building technology, working with data, or combining both?
+
+Are you entering university for the first time, changing careers or building on existing technology experience?
+
+Would online study help you manage work, caring responsibilities or where you live?
+
+How confident do you feel about mathematics, programming and returning to structured study?
+
+What would you need to know about study load, support or career direction before deciding whether to apply?
+
+Potential student questions
+
+Student question
+
+Suggested response
+
+Is the course fully online?
+
+The current brief proposes online delivery. Teaching patterns, contact expectations and practical activities are still to be confirmed.
+
+How long will it take and what will I graduate with?
+
+The proposed structure is four years, leading to a Bachelor of Computer Science and Master of Data Science.
+
+Do I need advanced mathematics?
+
+The brief proposes no advanced mathematics prerequisite, but assumed knowledge will apply. Final admission settings require approval.
+
+What will I study?
+
+The brief includes computer science, AI, data science, digital twins, quantum computing, cybersecurity and digital trust. The final course map is not yet available.
+
+What support or industry opportunities are included?
+
+Webinars, one-to-one consultations and AI-enabled support are proposed. Industry roles, certifications, internships and scholarships are not confirmed.
+
+Why choose this course
+
+Recommended summary: This proposed online course brings computer science and data science into one four-year pathway. It may suit students who want flexible study, broad technology capability and a route to both bachelor and master qualifications.
+
+Information requiring university approval
+
+Do not confirm the following information until it has been approved by the university:
+
+Final award title
+
+Course map and study load
+
+Intake dates and exit pathways
+
+Fees and CSP availability
+
+Final admission settings and assumed knowledge
+
+Alternative entry pathways
+
+Credit and recognition of prior learning
+
+Accreditation and approved career outcomes
+
+Industry partner commitments
+
+Certifications, internships and scholarships
+
+Teaching pattern, assessments and practical activities
+
+The full student support model
+
+Do not claim that the course is “the only one of its kind in NSW.”
+
+Internal training use. Based on the current product brief. Updated 21 September 2026.
