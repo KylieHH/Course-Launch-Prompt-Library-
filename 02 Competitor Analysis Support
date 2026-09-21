@@ -27,7 +27,7 @@ UniSQ competes strongly on accessibility and pathway flexibility. Its online Bac
 From a positioning perspective, the white space is therefore quite clear: “Two qualifications, Bachelor + Master, in four years, fully online” is substantially more differentiated than simply positioning around computer science, AI or data science content, because competitors can replicate the subject matter more easily than the qualification structure and time-to-completion.
 
 ===
-V2 Prompt: You are a product marketing manager, create a competitor matrix with the top 5 key online competitors in the Australia for the double degree; Bachelor of Computer Science + Master of Data Science. Include the university name, course name, price, entry requirements, key unique selling point and a source link in a table format.
+V2 Prompt: You are a product marketing manager, create a competitor matrix with the top 5 key online competitors in Australia for the double degree; Bachelor of Computer Science + Master of Data Science. Include the university name, course name, price, entry requirements, key unique selling point and a source link in a table format.
 ===
 Response: 
 Here’s the competitor matrix. I’ve focused on the closest 100% online Australian alternatives a prospective student might realistically compare with a Bachelor of Computer Science + Master of Data Science, rather than pretending there are five exact double-degree equivalents.
@@ -50,7 +50,7 @@ So from a product-marketing perspective, the clearest whitespace is:
 
 That is much more distinctive than simply positioning around AI, data science or industry relevance, which nearly all five competitors already use.
 ===
-V3 Prompt: You are a product marketing manager, create a competitor matrix with the top 5 key online competitors in the Australia for the double degree; Bachelor of Computer Science + Master of Data Science only. Include the university name, course name, price, entry requirements, key unique selling point and a source link in a table format. Please only include relevant courses for comparison.
+V3 Prompt: You are a product marketing manager, create a competitor matrix with the top 5 key online competitors in Australia for the double degree; Bachelor of Computer Science + Master of Data Science only. Include the university name, course name, price, entry requirements, key unique selling point and a source link in a table format. Please only include relevant courses for comparison.
 === 
 Response 
 I could not verify five Australian universities offering a like-for-like, fully online Bachelor of Computer Science + Master of Data Science vertical double degree. Rather than include loosely related IT courses, the matrix below contains the five closest online competitors based on overlap across computer science, programming, data science, AI/ML and graduate outcomes.
