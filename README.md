@@ -1,7 +1,7 @@
 # Course-Launch-Prompt-Library-
 
 This prompt library is designed to support the marketing team at an education services company with launching online courses
-Background: 
+Background and context: 
 - Course launch is a process involves multiple teams, systems and inputs, launches can sometimes be delayed by incomplete information, competing resource priorities, stakeholder dependencies, and limited visibility of key timelines, responsibilities and processes. This can create duplicated effort, slow decision-making and make it difficult for teams to stay aligned throughout the launch.
 - This reusable prompt library helps the marketing and project management team develop the required assets to support some of the key elements of the new course launch.
   
@@ -15,6 +15,7 @@ The library would help to support:
 - Recruitment team training documentation 
 The role of this library would be to help provide a consistent playbook for completing launch activities, making it a more repeatable and templated process that can be rolled out at scale. 
 
+Key information: 
 
 - Business: Online education provider 
 - Intended workflow: Support the marketing team in the development of course assets required for marketing promotion
